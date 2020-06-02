@@ -23,6 +23,6 @@ Cloud used: dropbox
 
 Video of the implementation of the project
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DKqoMRxyukA/0.jpg)](https://www.youtube.com/watch?v=DKqoMRxyukA)
+[![Facerec](https://img.youtube.com/vi/DKqoMRxyukA/0.jpg)](https://www.youtube.com/watch?v=DKqoMRxyukA)
 
 https://www.youtube.com/watch?v=DKqoMRxyukA
